@@ -10,7 +10,7 @@ A simple and efficient Todo application built with React and deployed on Netlify
 
 ## Live Demo
 
-Check out the live demo of the Todo App hosted on Netlify: [Todo App Demo](https://your-todo-app.netlify.app)
+Check out the live demo of the Todo App hosted on Netlify: [Todo App Demo](https://main--elegant-granita-a4cb3e.netlify.app/)
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ To get a local copy of the project up and running, follow these steps:
 1. Clone the repository:
 
 \`\`\`bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/github.com/kamkode/Task_03
 \`\`\`
 
 2. Navigate to the project directory:
@@ -54,7 +54,7 @@ The compiled output will be located in the `build` directory.
 
 ## Deployment
 
-The Todo App is deployed on Netlify, a popular hosting platform for modern web projects. Visit the [live demo](https://your-todo-app.netlify.app) to see the app in action.
+The Todo App is deployed on Netlify, a popular hosting platform for modern web projects. Visit the [live demo](https://main--elegant-granita-a4cb3e.netlify.app/) to see the app in action.
 
 ## Contributing
 
